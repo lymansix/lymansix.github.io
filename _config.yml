@@ -2,7 +2,7 @@
 title: Lymansix Blog
 SEOTitle: 一叶的博客 | yiye Blog
 header-img: img/home-bg.jpg
-email: zhaowangliu58@gmail.com
+email: zhaowangliu68@gmail.com
 description: '宇宙很大，需要一生探索，仍在路上'
 keyword: '博客, 个人网站, 互联,Web, Java'
 url: 'https://Lymansix.github.io' # your host, for absolute URL
@@ -74,7 +74,7 @@ ga_domain: auto
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: ''
+sidebar-about-description: 'java后端开发'
 sidebar-avatar: # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -89,7 +89,7 @@ service-worker: true
 page-mathjax: false
 
 # Friends
-friends: []
+# friends: []
 # { title: 'Sherry Woo', href: 'https://sherrywoo.me/' },
 # { title: 'Kun Qian', href: 'http://kunq.me' },
 # { title: 'Ebn Zhang', href: 'http://ebnbin.com/' },
