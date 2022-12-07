@@ -2,6 +2,7 @@
 title: Lymansix Blog
 SEOTitle: 一叶的博客 | yiye Blog
 header-img: img/home-bg.jpg
+header-mask: 0.3
 email: zhaowangliu68@gmail.com
 description: '宇宙很大，需要一生探索，仍在路上'
 keyword: '博客, 个人网站, 互联,Web, Java'
