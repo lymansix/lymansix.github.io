@@ -1,11 +1,3 @@
-[Hux Blog](https://huangxuan.me)
-================================
-
-> I never expect this becomes popular.
-
-![](http://huangxuan.me/img/blog-desktop.jpg)
-
-
 [User Manual 👉](_doc/Manual.md)
 --------------------------------------------------
 
@@ -16,7 +8,7 @@
 2. Installed dependencies in the `Gemfile`:
 
 ```sh
-$ bundle install 
+$ bundle install
 ```
 
 3. Serve the website (`localhost:4000` by default):
@@ -27,7 +19,7 @@ $ bundle exec jekyll serve  # alternatively, npm start
 
 ### Development (Build From Source)
 
-To modify the theme, you will need [Grunt](https://gruntjs.com/). There are numbers of tasks you can find in the `Gruntfile.js`, includes minifing JavaScript, compiling `.less` to `.css`, adding banners to keep the Apache 2.0 license intact, watching for changes, etc. 
+To modify the theme, you will need [Grunt](https://gruntjs.com/). There are numbers of tasks you can find in the `Gruntfile.js`, includes minifing JavaScript, compiling `.less` to `.css`, adding banners to keep the Apache 2.0 license intact, watching for changes, etc.
 
 Yes, they were inherited and are extremely old-fashioned. There is no modularization and transpilation, etc.
 
@@ -48,9 +40,6 @@ Ports
 
 [Starter/Boilerplate](https://github.com/huxpro/huxblog-boilerplate)
 - Out of date. Helps wanted for updating it on par with the main repo
-
-Translation
-- [🇨🇳  中文文档（有点过时）](https://github.com/Huxpro/huxpro.github.io/blob/master/_doc/README.zh.md)
 
 
 License
